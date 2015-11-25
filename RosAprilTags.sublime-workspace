@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"y_",
+				"y_height_offset"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"Block",
+				"BlockParamInt"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"off",
+				"offboard_switch"
+			],
+			[
+				"rat",
+				"rattitude"
+			],
+			[
+				"_par",
+				"_params_handles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "RosAprilTags.sublime-project",
+			"settings":
+			{
+				"buffer_size": 441,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/scott-edward/catkin_ws/src/apriltags"
+	],
+	"file_history":
+	[
+		"/home/scott-edward/catkin_ws/src/noamad/CMakeLists.txt",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/mavlink/mavlink_messages.cpp",
+		"/home/scott-edward/scott-eddy/Firmware/cmake/common/px4_base.cmake",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/position_estimator_inav/position_estimator_inav_main.c",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/local_position_estimator/BlockLocalPositionEstimator.cpp",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/local_position_estimator/BlockLocalPositionEstimator.hpp",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/local_position_estimator/local_position_estimator_main.cpp",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/local_position_estimator/params.c",
+		"/home/scott-edward/scott-eddy/Firmware/msg/distance_sensor.msg",
+		"/home/scott-edward/scott-eddy/Firmware/src/drivers/ll40ls/LidarLiteI2C.cpp",
+		"/home/scott-edward/scott-eddy/Firmware/build_px4fmu-v2_lpe/src/modules/position_estimator_inav/CMakeFiles/modules__position_estimator_inav.dir/flags.make",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/local_position_estimator/CMakeLists.txt",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/sensors/sensor_params.c",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/position_estimator_inav/position_estimator_inav_params.c",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/navigator/rtl.cpp",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/commander/commander.cpp",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/mc_pos_control/mc_pos_control_main.cpp",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/mc_att_control/mc_att_control_params.c",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/mc_pos_control/mc_pos_control_params.c",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/sensors/sensors.cpp",
+		"/home/scott-edward/scott-eddy/Firmware/src/modules/mc_att_control/mc_att_control_main.cpp"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+			"~/catkin_ws/src/usb_cam",
+			"~/scott-eddy/Firmware/src/modules/mavlink",
+			"~/scott-eddy/Firmware",
+			"~/scott-eddy/Firmware/src",
+			"~/scott-eddy/Firmware/",
+			"~/scott-eddy/Firmware/src",
+			"~/scott-eddy/Firmware/src/modules/mavlink",
+			"~/scott-eddy/Firmware/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"camera_info",
+			"distance",
+			"ll40ls start i2c",
+			"SENS_EN_LL40LS",
+			"rc.mc_apps",
+			"rc.mc_aps",
+			"distance",
+			"position_estimator_inav_param_handles",
+			"pos_inav_param_handles",
+			"inav_parameters_update",
+			"INAV_LIDAR_OFFX",
+			"lidar_offset_x",
+			".px4",
+			"firmware.px4",
+			"parameters.",
+			"att",
+			"roll",
+			"orb_publish(ORB_ID(distance_sensor)",
+			"ORB_ID(distance_sensor)",
+			"lidar",
+			"z_est",
+			"corr_lidar",
+			"lidar",
+			"-Wframe-larger-than",
+			"EXTRACXXFLAGS",
+			"position_estimator_inav",
+			"task_create",
+			"SCHED_PRIORITY_MAX",
+			"frame size",
+			"frame",
+			"stack",
+			"offset",
+			"lidar",
+			"FLOW",
+			"_ERR",
+			"lidar",
+			"CBRK_NO_VISION",
+			"param",
+			"lidar",
+			"SENS_EN_LL40LS",
+			"EN_LL40LS",
+			"LL40LS",
+			"lidar",
+			"flow",
+			"lidar",
+			"SENS_FLOW_Y_OFF",
+			"min_flow_quality",
+			"MIN_FLOW_QUALITY",
+			"offset.",
+			"offset",
+			"MIN_FLOW_QUALITY",
+			"correctLidar",
+			"z_est",
+			"local_pos",
+			"local_position",
+			"_pos(2)",
+			"_pos",
+			"_pos_sp",
+			"_alt_hold_engaged",
+			"altitude",
+			"lidar",
+			"w_z_lidar",
+			"surface_offset",
+			"orb_publish(ORB_ID(distance_sensor)",
+			"distance_sensor_sub",
+			"optical_flow",
+			"rtl_land_delay",
+			"ATC1",
+			"input",
+			"airspeed_scaling",
+			"(ORB_ID(distance_sensor)",
+			"orb_publish(ORB_ID(distance_sensor)",
+			"distance_sensor",
+			"NAVIGATION_STATE_OFFBOARD",
+			"OFFBOARD",
+			"NAVIGATION_STATE_OFFBOARD",
+			"offboard",
+			"rattitude",
+			"Rattitude",
+			"_rates_sp",
+			"_params",
+			"acro_yaw_max",
+			"_vehicle_status",
+			"vehicle_status_poll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "RosAprilTags.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "RosAprilTags.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1169.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 402.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+		"settings":
+	{
+		"tab_size": 8,
+		"translate_tabs_to_spaces": false,
+		"highlight_line": true,
+		"AStyleFormatter":
+		{
+			"options_c":
+			{
+				"use_only_additional_options": true,
+				"additional_options_file": "${project_path}/Tools/astylerc"
+			},
+			"options_c++":
+			{
+				"use_only_additional_options": true,
+				"additional_options_file": "${project_path}/Tools/astylerc"
+			}
+		}
+	},
+}

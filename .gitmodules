@@ -1,0 +1,3 @@
+[submodule "external/apriltags-cpp"]
+	path = external/apriltags-cpp
+	url = https://github.com/scott-eddy/apriltags-cpp.git
